@@ -2,6 +2,10 @@
 
 > Forging the infrastructure behind intelligent systems.
 
+### My Contributions
+* Implemented Infrastructure State Integration layer and dynamic hardware metrics pipeline.
+* Authored End-to-End (E2E) integration tests connecting workload profiling with execution dispatch.
+
 **InfraForge 7X** is building **AFRI-EDGE**, an infrastructure-aware, workload-agnostic adaptive runtime for intelligent AI execution across Local, Edge, and Cloud environments.
 
 ## AI Infra Summit Hackathon 2026
